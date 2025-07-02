@@ -32,16 +32,3 @@ Watch here: [IRIS Demo Video](https://www.youtube.com/watch?v=LRy-uAsT1LU)
 
 ## 🔐 License
 MIT License
-
----
-
-### **4. Push to GitHub**
-
-Inside the folder:
-
-```bash
-git init
-git remote add origin https://github.com/your-username/IRIS-Assistive-AI.git
-git add .
-git commit -m "Initial commit - IRIS AI project"
-git push -u origin master
